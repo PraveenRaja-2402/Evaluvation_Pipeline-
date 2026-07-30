@@ -41,7 +41,7 @@ class MultiFormatExporter:
 
         # 3. Export Global overall.md
         overall_md_path = self.output_dir / "overall.md"
-        self._write_overall_markdown(overall_summary, field_batch_metrics, overall_md_path)
+        self._write_overall_markdown(overall_summary, field_batch_metrics, doc_level_results, overall_md_path)
 
         # 4. Export Consolidated Excel Report
         self._write_excel_report(overall_summary, field_batch_metrics, doc_level_results)
@@ -86,9 +86,23 @@ class MultiFormatExporter:
             if "ragas" in doc and "ragas_reasoning" in doc["ragas"]:
                 f.write(f"> **Ragas Reasoning**: {doc['ragas']['ragas_reasoning']}\n\n")
 
-    def _write_overall_markdown(self, overall_summary: Dict[str, Any], field_metrics: Dict[str, Dict[str, Any]], filepath: Path):
+    def _write_overall_markdown(self, overall_summary: Dict[str, Any], field_metrics: Dict[str, Dict[str, Any]], doc_level_results: List[Dict[str, Any]], filepath: Path):
         with open(filepath, "w", encoding="utf-8") as f:
             f.write("# Global Extraction Performance Summary\n\n")
+            
+            f.write("## Document-Level Summary\n\n")
+            f.write("| Document ID | Precision | Recall | DeepEval Score | Ragas Faithfulness |\n")
+            f.write("| :--- | :---: | :---: | :---: | :---: |\n")
+            for doc in doc_level_results:
+                doc_id = doc.get('document_id', 'unknown')
+                det = doc.get('deterministic', {})
+                prec = det.get('field_precision', 0.0)
+                rec = det.get('field_recall', 0.0)
+                de = doc.get('deepeval', {}).get('deepeval_correctness_score', 0.0)
+                ragas = doc.get('ragas', {}).get('ragas_faithfulness', 0.0)
+                f.write(f"| `{doc_id}` | {prec:.2%} | {rec:.2%} | {de:.2f} | {ragas:.2f} |\n")
+            f.write("\n")
+
             f.write("## System-Level Aggregates\n\n")
             f.write("| Metric | Value |\n")
             f.write("| :--- | :---: |\n")
