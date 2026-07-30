@@ -1,0 +1,37 @@
+project:
+  name: "Nexsora RAG Evaluation Pipeline"
+  environment: "development"
+
+paths:
+  ground_truth_dir: "./data/ground_truth"
+  extracted_data_dir: "./data/extracted"
+  output_dir: "./exports"
+
+llm:
+  provider: "google"
+  model_name: "gemini-3.5-flash"
+  temperature: 0.0
+  api_key_env_var: "GEMINI_API_KEY"
+
+evaluation:
+  frameworks:
+    enable_deepeval: true
+    enable_ragas: true
+    enable_deterministic: true
+  thresholds:
+    min_precision: 0.85
+    min_recall: 0.85
+    min_semantic_similarity: 0.90
+
+telemetry:
+  enabled: false
+  otel_exporter_endpoint: "http://localhost:4317"
+  service_name: "nexsora-eval-service"
+
+logging:
+  level: "INFO" # Options: DEBUG, INFO, VERBOSE, WARNING, ERROR
+  log_to_file: true
+  log_file_path: "./logs/evaluation.log"
+
+reporting:
+  formats: ["json", "csv", "excel", "markdown"]

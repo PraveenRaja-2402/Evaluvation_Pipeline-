@@ -1,0 +1,51 @@
+{
+  "id": "61a6bbdc-0b2b-4958-90e7-fde640902212",
+  "document_name": "img20260508_12195287.pdf",
+  "timestamp": "2026-07-22T07:12:02.703359+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "P270302 ; 4/5/2026",
+    "SupplierName": "Wootz Metal Solutions India Private Limited",
+    "SupplierCode": "",
+    "InvoiceNo": "WZ005608",
+    "InvoiceDate": "2026-05-05",
+    "Referencenumber": "152625625056632",
+    "VechileNo": "",
+    "CarrierType": "",
+    "CarrierName": "",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "₹10,12,494.28",
+    "Noofpakage": "3",
+    "State": "Karnataka",
+    "Pincode": "562123",
+    "Amount": 1012494.28,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "1",
+        "Amount": "6,54,126.00",
+        "HSN/SAC": "73044100",
+        "Quantity": "102.00 MTR",
+        "Basic_Rate": "6,413.00",
+        "item_description": "Seamless Tube Monel 400 T Size: OD 12.7 mm X Wt 1.24 mm"
+      },
+      {
+        "S.no": "2",
+        "Amount": "2,02,920.00",
+        "HSN/SAC": "73044100",
+        "Quantity": "24.00 MTR",
+        "Basic_Rate": "8,455.00",
+        "item_description": "Seamless Tube Monel 400 T Size: OD 12.7 mm X Wt 1.65 mm"
+      },
+      {
+        "S.no": "3",
+        "Amount": "1,000.00",
+        "HSN/SAC": "996519",
+        "Quantity": "1.00",
+        "Basic_Rate": "1,000.00",
+        "item_description": "Packing Charges"
+      }
+    ]
+  }
+}

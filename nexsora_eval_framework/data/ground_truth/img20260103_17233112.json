@@ -1,0 +1,275 @@
+{
+  "id": "b1a5c7e9-8574-4478-9820-b02c0ff81ef7",
+  "document_name": "img20260103_17233112.pdf",
+  "timestamp": "2026-07-20T18:14:42.076552+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "P262312",
+    "SupplierName": "NEGELE MESSTECHNIK GMBH",
+    "SupplierCode": "N25576",
+    "InvoiceNo": "91505571",
+    "InvoiceDate": "2025-12-22",
+    "Referencenumber": "BE0251220251929",
+    "VechileNo": "KA03AA3546",
+    "CarrierType": "Air",
+    "CarrierName": "FedEx Express",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "11216.38 EUR",
+    "Noofpakage": "4",
+    "State": "Karnataka",
+    "Pincode": "560058",
+    "Amount": 357421,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "000010",
+        "Amount": "380,29",
+        "HSN/SAC": "90251900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "380,29 EUR",
+        "item_description": "7404 TSBP /TC1/S/4/0500/06/X/3/1/H/15C/1/M/0 Temperature sensor Pharma DIN B Housing"
+      },
+      {
+        "S.no": "000020",
+        "Amount": "0,00",
+        "HSN/SAC": "49119900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "0,00",
+        "item_description": "9620.9901-4 CAL/TFP/TS/BASIC Calibration Certificate for Temperature Sensors (Sub-item to item 000010)"
+      },
+      {
+        "S.no": "000030",
+        "Amount": "355,80",
+        "HSN/SAC": "90251900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "355,80 EUR",
+        "item_description": "7404 TSBP /TC1/S/0/0025/06/X/3/5/H/15C/1/M/0 Temperature sensor Pharma DIN B Housing"
+      },
+      {
+        "S.no": "000040",
+        "Amount": "0,00",
+        "HSN/SAC": "49119900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "0,00",
+        "item_description": "9620.9901-4 CAL/TFP/TS/BASIC Calibration Certificate for Temperature Sensors (Sub-item to item 000030)"
+      },
+      {
+        "S.no": "000050",
+        "Amount": "355,80",
+        "HSN/SAC": "90251900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "355,80 EUR",
+        "item_description": "7404 TSBP /TC1/S/0/0050/06/X/3/5/H/15C/1/M/0 Temperature sensor Pharma DIN B Housing"
+      },
+      {
+        "S.no": "000060",
+        "Amount": "0,00",
+        "HSN/SAC": "49119900",
+        "Quantity": "1 PC",
+        "Basic_Rate": "0,00",
+        "item_description": "9620.9901-4 CAL/TFP/TS/BASIC Calibration Certificate for Temperature Sensors (Sub-item to item 000050)"
+      },
+      {
+        "S.no": "000070",
+        "Amount": "1.559,00",
+        "HSN/SAC": "90262040",
+        "Quantity": "20 PC",
+        "Basic_Rate": "77,95 EUR",
+        "item_description": "7680 EM /971/01/004/1/0/1/1/A/0/0/0/0 EM Gauge 90 mm Dial"
+      },
+      {
+        "S.no": "000080",
+        "Amount": "2.769,50",
+        "HSN/SAC": "90262020",
+        "Quantity": "10 PC",
+        "Basic_Rate": "276,95 EUR",
+        "item_description": "PM17HA7002 Pres. Transm. HA7356BXXX013A0-PM17HA7002 Standard Pressure Sensor"
+      },
+      {
+        "S.no": "000090",
+        "Amount": "1.483,60",
+        "HSN/SAC": "90261021",
+        "Quantity": "10 PC",
+        "Basic_Rate": "148,36 EUR",
+        "item_description": "7011.00010-L NCS-L-11/PNP/KF /50 Cap. Level Monitor for aqueous solutions with Er > 20"
+      },
+      {
+        "S.no": "000100",
+        "Amount": "386,76",
+        "HSN/SAC": "73072210",
+        "Quantity": "12 PC",
+        "Basic_Rate": "32,23 EUR",
+        "item_description": "B53.711275 Clamp-Adapter AMC-132/1\"-1.5\" Clamp 1\"-1,5\" (DN25-40). Thread G1/2\" hygienic Material 1.4404 (316L)"
+      },
+      {
+        "S.no": "000110",
+        "Amount": "3.631,20",
+        "HSN/SAC": "90278930",
+        "Quantity": "5 PC",
+        "Basic_Rate": "726,24 EUR",
+        "item_description": "7741 ILM-4 /L50/S01/V/I42/P/L/P/X Inductive Conductivity Meter"
+      },
+      {
+        "S.no": "000120",
+        "Amount": "125,05",
+        "HSN/SAC": "73072210",
+        "Quantity": "5 PC",
+        "Basic_Rate": "25,01 EUR",
+        "item_description": "B58.749100 Weld-in Sleeve ESH-G1/2\"/100"
+      },
+      {
+        "S.no": "000130",
+        "Amount": "169,38",
+        "HSN/SAC": "90251900",
+        "Quantity": "2 PC",
+        "Basic_Rate": "84,69 EUR",
+        "item_description": "7402 TSMF /G01/X/0/0150/06/X/0/0/H/15C/4 Temperature sensor Food"
+      },
+      {
+        "S.no": "000140",
+        "Amount": "0,00",
+        "HSN/SAC": "49119900",
+        "Quantity": "2 PC",
+        "Basic_Rate": "0,00",
+        "item_description": "9620.9901-4 CAL/TFP/TS/BASIC Calibration Certificate for Temperature Sensors"
+      },
+      {
+        "S.no": "1",
+        "Amount": "380.29",
+        "HSN/SAC": "90251990",
+        "Quantity": "1.000000",
+        "Basic_Rate": "380.290000",
+        "item_description": "7404 TSBP /TC1/S/4/0500/06/X/3/1/H/15C/1/M/0 TEMPERATURE SENSOR PHARMA DIN B HOUSING"
+      },
+      {
+        "S.no": "2",
+        "Amount": "355.80",
+        "HSN/SAC": "90251990",
+        "Quantity": "1.000000",
+        "Basic_Rate": "355.800000",
+        "item_description": "7404 TSBP /TC1/S/0/0025/06/X/3/5/H/15C/1/M/0 TEMPERATURE SENSOR PHARMA DIN B HOUSING"
+      },
+      {
+        "S.no": "3",
+        "Amount": "355.80",
+        "HSN/SAC": "90251990",
+        "Quantity": "1.000000",
+        "Basic_Rate": "355.800000",
+        "item_description": "7404 TSBP /TC1/S/0/0050/06/X/3/5/H/15C/1/M/0 TEMPERATURE SENSOR PHARMA DIN B HOUSING"
+      },
+      {
+        "S.no": "4",
+        "Amount": "1559.00",
+        "HSN/SAC": "90262000",
+        "Quantity": "20.000000",
+        "Basic_Rate": "77.950000",
+        "item_description": "7680 EM /971/01/004/1/0/1/1/A/0/0/0/0 EM GAUGE 90 MM DIAL WETTET PARTS:RA 0,2 UM (8 INCH) INCL. 3.1 MATERIAL AND CALIBR"
+      },
+      {
+        "S.no": "5",
+        "Amount": "2769.50",
+        "HSN/SAC": "90262000",
+        "Quantity": "10.000000",
+        "Basic_Rate": "276.950000",
+        "item_description": "PM17HA7002 PRES. TRANSM. HA7356BXXX013A0-PM17HA7002 STANDARD PRESSURE SENSOR"
+      },
+      {
+        "S.no": "6",
+        "Amount": "1483.60",
+        "HSN/SAC": "90261090",
+        "Quantity": "10.000000",
+        "Basic_Rate": "148.360000",
+        "item_description": "7011.00010-L NCS-L-11/PNP/KF /50 CAP. LEVEL MONITOR FOR AQUEOUS SOLUTIONS WITH ER 20"
+      },
+      {
+        "S.no": "7",
+        "Amount": "386.76",
+        "HSN/SAC": "73072200",
+        "Quantity": "12.000000",
+        "Basic_Rate": "32.230000",
+        "item_description": "B53.711275 CLAMP-ADAPTER AMC-132/1\"-1.5\" CLAMP 1\"-1,5\" (DN25-40). THREAD G1/2\" HYGIENIC MATERIAL 1.4404 (316L)"
+      },
+      {
+        "S.no": "8",
+        "Amount": "3631.20",
+        "HSN/SAC": "90278990",
+        "Quantity": "5.000000",
+        "Basic_Rate": "726.240000",
+        "item_description": "7741 ILM-4 /L50/S01/V/I42/P/L/P/X INDUCTIVE CONDUCTIVITY METER"
+      },
+      {
+        "S.no": "9",
+        "Amount": "125.05",
+        "HSN/SAC": "73072200",
+        "Quantity": "5.000000",
+        "Basic_Rate": "25.010000",
+        "item_description": "B58.749100 WELD-IN SLEEVE ESH-G1/2/100 SLEEVE DIAMETER 8,8MMX1,0MM 1.4404(316L) FOR R1/2 SENSOR"
+      },
+      {
+        "S.no": "10",
+        "Amount": "169.38",
+        "HSN/SAC": "90251990",
+        "Quantity": "2.000000",
+        "Basic_Rate": "84.690000",
+        "item_description": "7402 TSMF /G01/X/0/0150/06/X/0/0/H/15C/4 TEMPERATURE SENSOR FOOD"
+      },
+      {
+        "S.no": "1",
+        "Amount": "420.58",
+        "HSN/SAC": "90251990",
+        "Quantity": "4.000000",
+        "Basic_Rate": "105.145000",
+        "item_description": "7402 TSMF /C01/X/0/0020/04/X/1/0/H/04C/4 TEMPERATURE SENSOR FOOD HOUSING DESIGN: MINI VERSION"
+      },
+      {
+        "S.no": "2",
+        "Amount": "547.57",
+        "HSN/SAC": "90262000",
+        "Quantity": "1.000000",
+        "Basic_Rate": "547.570000",
+        "item_description": "7555 L3 /A/S/6/154/1/0/A/2/2/A/B/000 HYDROSTATIC LEVEL AND PRESSURE SENSOR L3"
+      },
+      {
+        "S.no": "3",
+        "Amount": "386.86",
+        "HSN/SAC": "90262000",
+        "Quantity": "2.000000",
+        "Basic_Rate": "193.430000",
+        "item_description": "7690 EL /065/01/111/7/1/1/1/A/0/0/0/0 GAUGE FOR FOOD APPLICATION EL"
+      },
+      {
+        "S.no": "4",
+        "Amount": "2904.96",
+        "HSN/SAC": "90278990",
+        "Quantity": "4.000000",
+        "Basic_Rate": "726.240000",
+        "item_description": "7741 ILM-4 /L50/S01/V/I42/P/L/P/X INDUCTIVE CONDUCTIVITY METER"
+      },
+      {
+        "S.no": "5",
+        "Amount": "12.43",
+        "HSN/SAC": "49119990",
+        "Quantity": "1.000000",
+        "Basic_Rate": "12.430000",
+        "item_description": "9620.9902-07 CERT/2.2/NCS MATERIAL CERTIFICATE 2.2 ACC. TO EN 10204"
+      },
+      {
+        "S.no": "6",
+        "Amount": "270.75",
+        "HSN/SAC": "90261090",
+        "Quantity": "1.000000",
+        "Basic_Rate": "270.750000",
+        "item_description": "78014.110100 FTS-141/P FLOW SWITCH CALORIMETRIC"
+      },
+      {
+        "S.no": "7",
+        "Amount": "734.35",
+        "HSN/SAC": "90278990",
+        "Quantity": "1.000000",
+        "Basic_Rate": "734.350000",
+        "item_description": "7741 ILM-4 /L50/S01/V/I42/M/L/P/X INDUCTIVE CONDUCTIVITY METER"
+      }
+    ]
+  }
+}

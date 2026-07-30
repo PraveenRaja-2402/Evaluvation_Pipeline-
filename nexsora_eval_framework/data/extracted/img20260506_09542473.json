@@ -1,0 +1,35 @@
+{
+  "id": "192c60bb-b7a7-4ca1-8da0-760a5dca4eae",
+  "document_name": "img20260506_09542473.pdf",
+  "timestamp": "2026-07-22T07:11:55.609380+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "P2770231",
+    "SupplierName": "M.M SANKHLA ELECTRICALS",
+    "SupplierCode": "",
+    "InvoiceNo": "3206626-27",
+    "InvoiceDate": "2026-04-26",
+    "Referencenumber": "8861200084",
+    "VechileNo": "KA02SZ2660",
+    "CarrierType": "Truck",
+    "CarrierName": "TECHSOL ENGINEERS",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "₹ 26,204.80",
+    "Noofpakage": "1",
+    "State": "Karnataka",
+    "Pincode": "560053",
+    "Amount": 26204.8,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "1",
+        "Amount": "21,360.00",
+        "HSN/SAC": "74091900",
+        "Quantity": "24.00",
+        "Basic_Rate": "890.00",
+        "item_description": "25MMX3MM COPPER STRIP"
+      }
+    ]
+  }
+}

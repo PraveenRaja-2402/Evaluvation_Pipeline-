@@ -1,0 +1,43 @@
+{
+  "id": "a5c66882-b731-4d0d-9def-f5e0427511d4",
+  "document_name": "img20260508_12144610.pdf",
+  "timestamp": "2026-07-22T07:11:59.310346+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "P262564",
+    "SupplierName": "PRAMA INSTRUMENTS PVT LTD",
+    "SupplierCode": "",
+    "InvoiceNo": "ART2627/111",
+    "InvoiceDate": "2026-04-29",
+    "Referencenumber": "ART2627/111",
+    "VechileNo": "KA05KR5133",
+    "CarrierType": "",
+    "CarrierName": "BLUE DART",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "68,794.00",
+    "Noofpakage": "4000",
+    "State": "Karnataka",
+    "Pincode": "400701",
+    "Amount": 68794,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "1",
+        "Amount": "58,000.00",
+        "HSN/SAC": "8421.39.90",
+        "Quantity": "4.0000",
+        "Basic_Rate": "14,500.00",
+        "item_description": "BOPCO338 TKF MAKE INLINE FILTER 1/4\" VCR MALE END SS316 0.5 MICRON SINTERED FILTER ELEMENT MAX WORKING PRESSURE 160 BAR FUFL-715-4-36-0.5"
+      },
+      {
+        "S.no": "2",
+        "Amount": "354.00",
+        "HSN/SAC": "996511",
+        "Quantity": "",
+        "Basic_Rate": "",
+        "item_description": "Transportation Chrg"
+      }
+    ]
+  }
+}

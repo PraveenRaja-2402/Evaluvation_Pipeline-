@@ -1,0 +1,67 @@
+{
+  "id": "f8d4e1c6-88be-4d8f-a2e9-4ed68176cd21",
+  "document_name": "img20260508_12215625.pdf",
+  "timestamp": "2026-07-21T03:01:44.275787+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "",
+    "SupplierName": "SR ENTERPRISES",
+    "SupplierCode": "",
+    "InvoiceNo": "SRE/1490",
+    "InvoiceDate": "2026-05-05",
+    "Referencenumber": "",
+    "VechileNo": "KA04AC 6439 (CNG)",
+    "CarrierType": "",
+    "CarrierName": "",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "₹ 31,511.00",
+    "Noofpakage": "10",
+    "State": "Karnataka",
+    "Pincode": "562123",
+    "Amount": 31511,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "1",
+        "Amount": "6,600.00",
+        "HSN/SAC": "39232100",
+        "Quantity": "6 ROLL",
+        "Basic_Rate": "1,100.00",
+        "item_description": "Air Bubble Roll\""
+      },
+      {
+        "S.no": "2",
+        "Amount": "7,000.00",
+        "HSN/SAC": "39201012",
+        "Quantity": "2 ROLL",
+        "Basic_Rate": "3,500.00",
+        "item_description": "EPE FOAM - 4MM \"\"\" Black White"
+      },
+      {
+        "S.no": "3",
+        "Amount": "4,140.00",
+        "HSN/SAC": "39201019",
+        "Quantity": "23.000 KGS",
+        "Basic_Rate": "180.00",
+        "item_description": "STRECH WRAP ROLL - 150 MM\""
+      },
+      {
+        "S.no": "4",
+        "Amount": "3,564.00",
+        "HSN/SAC": "39201019",
+        "Quantity": "19.800 KGS",
+        "Basic_Rate": "180.00",
+        "item_description": "STRECH WRAP ROLL - 300 MM\""
+      },
+      {
+        "S.no": "5",
+        "Amount": "5,400.00",
+        "HSN/SAC": "39201019",
+        "Quantity": "30.000 KGS",
+        "Basic_Rate": "180.00",
+        "item_description": "STRECH WRAP ROLL - 500 MM\""
+      }
+    ]
+  }
+}

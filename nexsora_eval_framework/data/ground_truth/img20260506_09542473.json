@@ -1,0 +1,35 @@
+{
+  "id": "bed6c8d0-d7e9-4545-bd2c-477172205d22",
+  "document_name": "img20260506_09542473.pdf",
+  "timestamp": "2026-07-20T19:07:45.995699+00:00",
+  "status": "succeeded",
+  "extracted_data": {
+    "POnumber": "P270231",
+    "SupplierName": "M.M.SANKHLA ELECTRICALS-FY-2023-2024 (From 1-Apr-21",
+    "SupplierCode": "",
+    "InvoiceNo": "32086/26-27",
+    "InvoiceDate": "2026-04-24",
+    "Referencenumber": "20260983",
+    "VechileNo": "KA02JZ2560",
+    "CarrierType": "",
+    "CarrierName": "",
+    "Drivername": "",
+    "DriverNo": "",
+    "Invoicevalue": "₹ 25,204.80",
+    "Noofpakage": "Roll-1",
+    "State": "Karnataka",
+    "Pincode": "562123",
+    "Amount": 25204.8,
+    "Documents": [],
+    "Detail": [
+      {
+        "S.no": "1",
+        "Amount": "21,360.00",
+        "HSN/SAC": "74091900",
+        "Quantity": "24.00 MTR",
+        "Basic_Rate": "890.00",
+        "item_description": "25MMX3MM COPPER STRIP"
+      }
+    ]
+  }
+}
